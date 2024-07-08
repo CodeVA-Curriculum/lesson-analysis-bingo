@@ -4,3 +4,5 @@ import { base } from '$app/paths'
 export function load() {
 	redirect(307, `${base}/generator`)
 }
+
+export const prerender = true;

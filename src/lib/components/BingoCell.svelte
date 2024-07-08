@@ -21,7 +21,7 @@
     .background {
         display: none;
         position: absolute;
-        background-image: url("images/codie-flying-2.png");
+        background-image: url("/images/codie-flying-2.png");
         background-position: center;
         background-repeat: no-repeat;
         background-size: 90%;

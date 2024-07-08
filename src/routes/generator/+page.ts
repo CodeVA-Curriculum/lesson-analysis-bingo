@@ -1,4 +1,4 @@
-export async function load({ params }) {
+export async function load() {
     // TODO: find the tags from the lessons linked via params
     return {
         tags: [ "Plugged Activity", "Inquiry-Based Learning", "Rubber Ducky Technique", "Skills learned are transferable", "Collaborative Learning",
